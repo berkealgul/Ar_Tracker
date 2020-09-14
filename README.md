@@ -6,7 +6,7 @@ it is compatible with ros-kinetic
 You can use it with example code "aruco-slam.cpp"
 
 '''sh
-rosrun package_name exacutable_name
+ $ rosrun package_name exacutable_name
 '''
 
 # Outputs
