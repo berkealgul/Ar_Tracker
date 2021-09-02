@@ -7,3 +7,6 @@ You can use it with example code "aruco-slam.cpp"
 
 # Outputs
 it gives tf output you can view it using rviz with "artracker_world" fixed_frame
+
+
+https://www.youtube.com/watch?v=TQAyoNNcCTk&list=PLFcVgs9SAZn24gF2VCl5zmnnEZ0ZZHbgb&index=1
